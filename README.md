@@ -4,7 +4,7 @@
 Welcome to RainRepo, a rainmeter information repository and archive.
 </p> 
 
-(This repo is still a work in progress, so please browse through the [the wiki](https://github.com/Novadestin/rainrepo/wiki/%23-RainRepo-wiki:-Main-Index.) while we get things sorted.) 
+(This repo is still a work in progress, so please browse through [the wiki](https://github.com/Novadestin/rainrepo/wiki/%23-RainRepo-wiki:-Main-Index.) while we get things sorted. Also, if you think of anything you'd like to see here, please let us know!) 
 
 
 
